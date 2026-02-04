@@ -1,0 +1,5 @@
+print("Full name: Jordan Smith")
+print("Student email: jsmith@ncat.edu")
+print("Hometown: Charlotte, NC")
+print("Graduation semester: Spring 2028")
+print("Major: Computer Science")
