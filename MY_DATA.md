@@ -1,3 +1,5 @@
+#Section 1
+
 full_name = "Nahdia Benson"
 student_email = "nbenson@aggies.ncat.edu"
 hometown = "Norcross, Georgia"
@@ -42,5 +44,17 @@ tiktok_info = ("TikTok", "@nahdevenclose", 51)
 
 print("Instagram:", insta_info)
 print("TikTok:", tiktok_info)
+
+________________________________________________________________________________________________________________________
+
+#Section 2
+
+1. The most challenging calculation was probably the GPA to make sure the decimal didn't go on too long
+2. The most useful data structure is probably tuples for data that doesn't change (i.e. parents' name). Dictionaries are probably the best for data that does need to be changed while still connected to something.
+3. Lists can be used for a collections of data that need to be changed. Tuples can be used for data that has the same overall term, like a car with a make, model, and year. Sets can be used for adding more data like a list, but changing the data around to find the needs. Dictionaries can be used for having a set data point forever attached to other.
+4. The biggest challenge was probably setting up everyhting in the Classroom correctly. Also connecting my Git to my VS Code studio correctly. Pushing the code and connecting my repositories was a lot easier than expected.
+5. One thing that I would add to the portfolio project is having a set keyword entered and pulling all the necessary data. 
+
+
 
 
